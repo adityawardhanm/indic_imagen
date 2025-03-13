@@ -1,0 +1,11 @@
+# Core dependencies
+streamlit==1.29.0
+pandas>=2.0.3
+numpy>=1.24.3
+Pillow>=10.0.0
+
+# System monitoring
+psutil>=5.9.5
+
+# File format support
+openpyxl>=3.1.2
